@@ -1,4 +1,6 @@
-# Vamb
+:warning:
+# THIS REPOISTORY HAS MOVED TO RasmussenLab/vamb
+:warning:
 
 Created by Jakob Nybo Nissen and Simon Rasmussen, Technical University of Denmark.
 
